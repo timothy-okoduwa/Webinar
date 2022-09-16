@@ -41,8 +41,12 @@
         font-family: 'DM Sans', sans-serif;
         display: flex;
         flex-wrap: wrap;
+        /* width: 100%; */
+       align-items: center;
     justify-content: center;
-        text-align: center;
+    
+    /* background-color: red; */
+        /* text-align: start; */
     }
     /* .countDown{
         background-color: #02812C;

@@ -75,7 +75,12 @@ margin-top: -18%;
     width: 120px;
     border-radius: 60px;
 }
-
+.hmm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .Sign{
     background-color: #02812C !important;
     color: white !important;

@@ -88,7 +88,10 @@ font-family: 'DM Sans', sans-serif;
     font-family: 'DM Sans', sans-serif;
     display: flex;
     flex-wrap: wrap;
-justify-content: start;
+    width: 100%;
+   
+justify-content: space-between;
+
 /* background-color: red; */
     /* text-align: start; */
 }
@@ -122,6 +125,9 @@ justify-content: start;
     height: 40px !important;
     width: 180px !important;
 }
+/* .best{
+
+} */
 .cc{
     background-color: #02812C;
         border-radius: 10px;
@@ -130,6 +136,7 @@ justify-content: start;
         font-family: 'DM Sans', sans-serif;
         font-weight: bold;
         text-align: center;
+        color: white;
 }
 .regi{
     text-align: center;

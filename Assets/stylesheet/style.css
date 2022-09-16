@@ -1,0 +1,169 @@
+h1{
+    font-size: 60px !important;
+    font-weight: 800 !important;
+    font-family: 'DM Sans', sans-serif;
+}
+h2{
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+}
+h3{
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+    color: #ffffff;
+}
+p{
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+}
+p3{
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.headerr{
+    background: #14142B;
+/* box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); */
+
+
+
+}
+.headerr2{
+    background: #ffffff;
+/* box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); */
+
+
+
+}
+.namee{
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.logo{
+    width: 75%;
+    font-family: 'DM Sans', sans-serif;
+}
+.icon{
+ margin-left: 10%;
+ font-family: 'DM Sans', sans-serif;
+}
+.font{
+ font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    /* display: none !important; */
+    font-weight: 500;
+    font-size: 16px;
+    /* background-color: red !important; */
+}
+.relocate{
+    text-align: start;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: 'DM Sans', sans-serif;
+}
+.waves{
+margin-top: -18%;
+}
+.contenttt{
+    background-color: rgba(210, 210, 210, 0.489);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+}
+
+.Sign{
+    background-color: #02812C !important;
+    color: white !important;
+padding: 10px  !important;
+padding-left: 50px !important;
+padding-right: 50px !important;
+font-family: 'DM Sans', sans-serif;
+}
+.dididi{
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+justify-content: start;
+/* background-color: red; */
+    /* text-align: start; */
+}
+
+.fHolder{
+    font-family: 'DM Sans', sans-serif;
+    width: 450px ;
+    color: black;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 39, 69, 0.35) 0px -2px 6px 0px inset;
+   padding: 10%;
+   /* margin-bottom: 40px; */
+    border-radius: 6%;
+}
+.fHolder2{
+    font-family: 'DM Sans', sans-serif;
+    width: 450px ;
+    color: black;
+    background-color: white;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 39, 69, 0.35) 0px -2px 6px 0px inset;
+   padding: 10%;
+   /* margin-bottom: 40px; */
+    border-radius: 6%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+ 
+}
+.width{
+    font-family: 'DM Sans', sans-serif;
+    height: 40px !important;
+    width: 180px !important;
+}
+.cc{
+    background-color: #02812C;
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 36px ;
+        font-family: 'DM Sans', sans-serif;
+        font-weight: bold;
+        text-align: center;
+}
+.regi{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: 'DM Sans', sans-serif;
+}
+.form-control::placeholder{
+    font-family: 'DM Sans', sans-serif !important;
+    color: rgb(151, 151, 151) !important;
+}
+.form-control{
+    font-family: 'DM Sans', sans-serif !important;
+    height: 55px !important;
+    width: 350px !important;
+}
+.form-label{
+    font-family: 'DM Sans', sans-serif !important;
+}
+.register{
+    color: white !important;
+    height: 55px !important;
+    width: 350px !important;
+    background-color: #02812C !important;
+}
+.subHandle{
+
+font-style: normal;
+font-weight: 400;
+text-align: center;
+padding-top: 14px;
+}
+.speakers{
+    font-family: 'DM Sans', sans-serif;
+ margin-top: 40px ;
+}

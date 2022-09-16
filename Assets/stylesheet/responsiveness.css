@@ -1,0 +1,73 @@
+@media screen and (max-width: 768px) {
+    h1{
+        font-size: 40px !important;
+        font-weight: 800 !important;
+        font-family: 'DM Sans', sans-serif;
+    }
+    .fHolder{
+        font-family: 'DM Sans', sans-serif;
+        margin-top: 10px;
+        width: 300px ;
+        color: black;
+        background-color: white;
+        /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 39, 69, 0.35) 0px -2px 6px 0px inset; */
+       padding: 10%;
+       margin-bottom: 40px;
+        /* border-radius: none; */
+    }
+    .fHolder2{
+        font-family: 'DM Sans', sans-serif;
+        margin-top: 10px;
+        width: 300px ;
+        color: black;
+        background-color: white;
+        /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 39, 69, 0.35) 0px -2px 6px 0px inset; */
+       padding: 10%;
+       margin-bottom: 40px;
+        /* border-radius: none; */
+    }
+    .form-control{
+        font-family: 'DM Sans', sans-serif !important;
+        height: 55px !important;
+        width: 240px !important;
+    }
+    .register{
+        height: 55px !important;
+        width: 240px !important;
+        background-color: #02812C !important;
+        color: white !important;
+    }
+    .dididi{
+        font-family: 'DM Sans', sans-serif;
+        display: flex;
+        flex-wrap: wrap;
+    justify-content: center;
+        text-align: center;
+    }
+    /* .countDown{
+        background-color: #02812C;
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 40px !important;
+        font-family: 'DM Sans', sans-serif;
+        width: 290px;
+        text-align: center;
+    } */
+}
+@media screen and (min-width: 768px){
+    .countDown{
+        background-color: #02812C;
+            border-radius: 10px;
+            padding: 10px;
+            font-size: 40px !important;
+            font-family: 'DM Sans', sans-serif;
+            width: 400px;
+            text-align: center;
+    }
+}
+/* @media screen and (max-width: 990px) {
+
+    .waves{
+        display: none;
+    }
+} */

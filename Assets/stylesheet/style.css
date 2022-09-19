@@ -179,3 +179,15 @@ padding-top: 14px;
     font-family: 'DM Sans', sans-serif;
  margin-top: 40px ;
 }
+.black{
+background-color: rgb(0, 0, 0);
+display: flex;
+justify-content: center;
+color: white;
+
+padding: 2%;
+}
+.copyright{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+}

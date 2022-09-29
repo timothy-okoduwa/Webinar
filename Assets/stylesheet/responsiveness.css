@@ -1,8 +1,78 @@
 @media screen and (max-width: 768px) {
+    .icon{
+        padding-right: 65%;
+         width: 100%;
+    }
+    .navss{
+        margin-top: 2px;
+        color: white !important;
+    }
+    .bout{
+        font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    color: #FFFFFF;
+    text-align: center;
+    }
+    .ptalks{
+        font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    }
+    .cc{
+        background-color: #815AF0;
+            border-radius: 10px;
+            padding: 10px;
+            font-size: 36px ;
+            font-family: 'DM Sans', sans-serif;
+            font-weight: bold;
+            text-align: center;
+            color: white;
+            width: 100%;
+            margin-top: 14px;
+    }
+    .speakers{
+        font-family: 'DM Sans', sans-serif;
+     margin-top: 40px ;
+     text-align: center;
+    }
+    .flexup{
+        display: flex;
+        flex-wrap: wrap;
+    justify-content: center;
+    }
+    .impat{
+        font-family: 'Fira Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        color: #FFFFFF;
+        text-align: center;
+        }
+        .commer{
+            font-family: 'Lexend';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        color: #FFFFFF;
+        text-align: center;
+        }
+        .topp{
+            font-family: 'Lexend';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        color: #FFFFFF;
+        }
     h1{
         font-size: 40px !important;
         font-weight: 800 !important;
         font-family: 'DM Sans', sans-serif;
+        text-align: center;
     }
     .fHolder{
         font-family: 'DM Sans', sans-serif;

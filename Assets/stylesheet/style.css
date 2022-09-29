@@ -23,46 +23,13 @@ p3{
 
 .headerr{
     background: #14142B;
-/* box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); */
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+/* height: 60px !important; */
 
-
-
-}
-.headerr2{
-    background: #ffffff;
-/* box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); */
-
-
-
-}
-.namee{
-    font-weight: 700;
-    font-size: 16px;
-    font-family: 'DM Sans', sans-serif;
+padding-top:2% !important;
+padding-bottom: 2% !important;
 }
 
-.logo{
-    width: 75%;
-    font-family: 'DM Sans', sans-serif;
-}
-.icon{
- margin-left: 10%;
- font-family: 'DM Sans', sans-serif;
-}
-.font{
- font-family: 'DM Sans', sans-serif;
-    font-style: normal;
-    /* display: none !important; */
-    font-weight: 500;
-    font-size: 16px;
-    /* background-color: red !important; */
-}
-.relocate{
-    text-align: start;
-    padding-left: 20px;
-    padding-top: 20px;
-    font-family: 'DM Sans', sans-serif;
-}
 .waves{
 margin-top: -18%;
 }
@@ -110,6 +77,9 @@ justify-content: space-between;
    padding: 10%;
    /* margin-bottom: 40px; */
     border-radius: 6%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
 }
 .fHolder2{
     font-family: 'DM Sans', sans-serif;
@@ -134,7 +104,7 @@ justify-content: space-between;
 
 } */
 .cc{
-    background-color: #02812C;
+    background-color: #815AF0;
         border-radius: 10px;
         padding: 10px;
         font-size: 36px ;
@@ -142,6 +112,8 @@ justify-content: space-between;
         font-weight: bold;
         text-align: center;
         color: white;
+        width: 370px;
+        margin-top: 14px;
 }
 .regi{
     text-align: center;
@@ -190,4 +162,158 @@ padding: 2%;
 .copyright{
     font-family: 'DM Sans', sans-serif;
     font-size: 18px;
+}
+
+
+
+.prious{
+    background-color: #14142B;
+}
+.fridd{
+    /* background-image: url('../images/home\ page-small.png'); */
+background-repeat:no-repeat;
+background-size: contain;
+color: white;
+
+}
+.topp{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+color: #FFFFFF;
+}
+.impat{
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+color: #FFFFFF;
+line-height: 80px;
+}
+.commer{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+}
+.impat2{
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+color:#262036;
+line-height: 80px;
+}
+.commer2{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color:#262036;
+}
+.mentors{
+    width: 200px;
+height: 280px;
+background: #262036;
+border: 0.977695px solid #3D2F76;
+padding: 13px;
+}
+.flexup{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.imageHolders{
+    width:170px;
+height: 150px;
+object-fit: cover;
+background: #FFFFFF;
+}
+.imageHolders img{
+width:170px;
+height: 150px;
+
+}
+.speaker{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+margin-top: 8px;
+color: #FFFFFF;
+}
+.leadd{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+margin-top: 6px;
+color: #FFFFFF;
+}
+.footer{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    color: white;
+    background: #14142B;
+    border-top: 1px solid #3D2F76;
+    margin-top: 64px;
+}
+.footer2{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    text-align: center;
+    color: white;
+    background: #14142B;
+    border-top: 1px solid #3D2F76;
+    /* margin-top: 64px; */
+}
+a{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+text-align: center;
+text-decoration: none !important;
+color: #815AF0 !important;
+}
+.powered{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+text-align: center;
+}
+.navbar-brand{
+    /* background-color: red; */
+    width: 70%;
+    height: 20%;
+}
+
+
+.navss{
+    margin-top: -20px;
+    color: white !important;
+}
+
+.bout{
+    font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+color: #FFFFFF;
+}
+.ptalks{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+
+}
+.icon{
+    padding-right: 65%;
+     width: 80%;
 }

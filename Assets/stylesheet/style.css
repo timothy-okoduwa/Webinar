@@ -217,7 +217,7 @@ color:#262036;
     width: 200px;
 height: 280px;
 background: #262036;
-border: 0.977695px solid #3D2F76;
+/* border: 0.977695px solid #3D2F76; */
 padding: 13px;
 }
 .flexup{
@@ -258,7 +258,7 @@ color: #FFFFFF;
     text-align: center;
     color: white;
     background: #14142B;
-    border-top: 1px solid #3D2F76;
+    /* border-top: 1px solid #3D2F76; */
     /* margin-top: 64px; */
 }
 .footer2{
@@ -297,6 +297,10 @@ text-align: center;
     margin-top: -20px;
     color: white !important;
 }
+.navss2{
+
+    color: white !important;
+}
 
 .bout{
     font-family: 'Fira Sans';
@@ -317,3 +321,93 @@ color: #FFFFFF;
     padding-right: 65%;
      width: 80%;
 }
+.thankypu{
+    background-color: #14142B;
+    /* height: 100%; */
+
+}
+.morph{
+ 
+    width: 812.85px;
+    /* height: 710px; */
+    display: flex;
+/* justify-content: center; */
+align-items: center;
+flex-direction: column;
+padding-top: 10%;
+padding-bottom: 10%;
+    background: #2b2b41a8;
+    backdrop-filter: blur(52.1946px);    
+    border-radius: 78.2919px;
+}
+.fridd2{
+    background-image: url('../images/finally2.png');
+background-repeat:no-repeat;
+background-size: cover;
+color: white;
+width: 100vw;
+display: flex;
+justify-content: center;
+padding-top: 10%;
+padding-bottom: 10%;
+}
+ .okkk{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    -webkit-animation:glide 2s ease-in-out alternate infinite;
+}
+@-webkit-keyframes glide  {
+    from {
+       left:0px;
+       top:0px;
+    }
+    
+    to {
+       left:0px;
+       top:20px;
+    }
+ 
+ } 
+
+
+ .thankk{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+text-align: center;
+color: #FFFFFF;
+ }
+ .fror{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+text-align: center;
+color: #FFFFFF;
+ }
+ .backhome{
+text-align: center;
+padding: 18px 30px;
+width: 204px;
+height: 61px;
+background: #815AF0;
+border-radius: 7px;
+border: none;
+outline: none;
+font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+ }
+ .check{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+text-align: center;
+color: #FFFFFF;
+ }

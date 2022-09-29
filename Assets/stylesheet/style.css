@@ -219,6 +219,7 @@ height: 280px;
 background: #262036;
 /* border: 0.977695px solid #3D2F76; */
 padding: 13px;
+border-radius: 8px;
 }
 .flexup{
     display: flex;
@@ -226,13 +227,14 @@ padding: 13px;
 
 }
 .imageHolders{
-    width:170px;
+    width:174px;
 height: 150px;
 object-fit: cover;
 background: #FFFFFF;
+border-radius: 8px;
 }
 .imageHolders img{
-width:170px;
+width:174px;
 height: 150px;
 
 }

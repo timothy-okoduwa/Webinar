@@ -170,9 +170,9 @@ padding: 2%;
     background-color: #14142B;
 }
 .fridd{
-    /* background-image: url('../images/home\ page-small.png'); */
+    background-image: url('../images/finally2.png');
 background-repeat:no-repeat;
-background-size: contain;
+background-size: cover;
 color: white;
 
 }
@@ -259,7 +259,7 @@ color: #FFFFFF;
     color: white;
     background: #14142B;
     border-top: 1px solid #3D2F76;
-    margin-top: 64px;
+    /* margin-top: 64px; */
 }
 .footer2{
     padding-top: 3%;

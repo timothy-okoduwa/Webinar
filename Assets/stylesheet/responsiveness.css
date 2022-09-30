@@ -3,7 +3,13 @@
     width: 60%;
   
 }
-
+.powered{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+}
  .thankk{
     font-family: 'Lexend';
 font-style: normal;
@@ -66,8 +72,9 @@ color: #FFFFFF;
          width: 100%;
     }
     .navss{
-        margin-top: 2px;
+        margin-top: 5px;
         color: white !important;
+        text-align: start;
     }
     .bout{
         font-family: 'Fira Sans';

@@ -3,6 +3,19 @@
     width: 60%;
   
 }
+
+
+
+
+a{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+text-decoration: none !important;
+color: #815AF0 !important;
+}
 .powered{
     font-family: 'Lexend';
 font-style: normal;
@@ -88,9 +101,10 @@ color: #FFFFFF;
         font-family: 'Lexend';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 16px;
     color: #FFFFFF;
     text-align: center;
+
     }
     .cc{
         background-color: #815AF0;
@@ -121,7 +135,16 @@ color: #FFFFFF;
         font-size: 40px;
         color: #FFFFFF;
         text-align: center;
+        line-height: 55px;
         }
+        .impat2{
+            font-family: 'Fira Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 64px;
+            color:#262036;
+            line-height: 55px;
+            }
         .commer{
             font-family: 'Lexend';
         font-style: normal;
@@ -129,6 +152,15 @@ color: #FFFFFF;
         font-size: 18px;
         color: #FFFFFF;
         text-align: center;
+        margin-top: 20px;
+        }
+        .commer2{
+            font-family: 'Lexend';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        color:#262036;
+       padding-top: 20px;
         }
         .topp{
             font-family: 'Lexend';

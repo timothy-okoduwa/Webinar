@@ -64,25 +64,23 @@ var x = setInterval(function() {
 
 
 
-
-
-var toggleSubmit = function() {
-  var isDisabled = ![].some.call(document.querySelectorAll("input[type=email]"), function(input) {
-    return input.value.length;
-  });
+// var toggleSubmit = function() {
+//   var isDisabled = ![].some.call(document.querySelectorAll("input[type=email]"), function(input) {
+//     return input.value.length;
+//   });
   
-  var submitBtn = document.querySelector("button[type=submit]");
+//   var submitBtn = document.querySelector("button[type=submit]");
   
-  if (isDisabled) {
-    submitBtn.setAttribute("disabled", "disabled");
-  } else {
-    submitBtn.removeAttribute("disabled");
+//   if (isDisabled) {
+//     submitBtn.setAttribute("disabled", "disabled");
+//   } else {
+//     submitBtn.removeAttribute("disabled");
  
-  } 
+//   } 
 
   
-};
+// };
 
 
-document.querySelector("form").addEventListener("input", toggleSubmit, true  );
+// document.querySelector("form").addEventListener("input", toggleSubmit, true  );
 

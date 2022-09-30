@@ -73,10 +73,10 @@ justify-content: space-between;
     width: 450px ;
     color: black;
     background-color: white;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 39, 69, 0.35) 0px -2px 6px 0px inset;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 39, 69, 0.35) 0px -2px 6px 0px ;
    padding: 10%;
    /* margin-bottom: 40px; */
-    border-radius: 6%;
+   border-radius: 20px;
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
@@ -86,15 +86,21 @@ justify-content: space-between;
     width: 450px ;
     color: black;
     background-color: white;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 39, 69, 0.35) 0px -2px 6px 0px inset;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 39, 69, 0.35) 0px -2px 6px 0px ;
    padding: 10%;
    /* margin-bottom: 40px; */
-    border-radius: 6%;
+    border-radius: 20px;
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
  
 }
+
+.whitess{
+    padding-top: 60px;
+}
+
+
 .width{
     font-family: 'DM Sans', sans-serif;
     height: 40px !important;
@@ -107,7 +113,7 @@ justify-content: space-between;
     background-color: #815AF0;
         border-radius: 10px;
         padding: 10px;
-        font-size: 36px ;
+        font-size: 20px ;
         font-family: 'DM Sans', sans-serif;
         font-weight: bold;
         text-align: center;
@@ -183,6 +189,20 @@ font-weight: 600;
 font-size: 32px;
 color: #FFFFFF;
 }
+.topp2{
+    font-family: 'Lexend';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+color: #FFFFFF;
+}
+.detailss{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color:#262036;
+}
 .impat{
 font-family: 'Fira Sans';
 font-style: normal;
@@ -203,7 +223,7 @@ font-family: 'Fira Sans';
 font-style: normal;
 font-weight: 400;
 font-size: 64px;
-color:#262036;
+color: #FFFFFF;
 line-height: 80px;
 }
 .commer2{
@@ -222,6 +242,14 @@ background: #262036;
 /* padding: 13px; */
 border-radius: 5px;
 }
+.mentors2{
+    width: 230px;
+height: 280px;
+background: #262036;
+/* border: 0.977695px solid #3D2F76; */
+/* padding: 13px; */
+border-radius: 5px;
+}
 .flexup{
     display: flex;
     flex-wrap: wrap;
@@ -229,7 +257,7 @@ border-radius: 5px;
 }
 .leads{
     padding-left: 20px;
-    padding-top: 30px;
+    padding-top: 23px;
 }
 .imageHolders{
     width:100%;

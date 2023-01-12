@@ -286,7 +286,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 14px;
 margin-top: 6px;
-color: #FFFFFF;
+color: #b2b1b1f1;
 }
 .footer{
     padding-top: 3%;
@@ -314,6 +314,15 @@ font-size: 20px;
 text-align: center;
 text-decoration: none !important;
 color: #815AF0 !important;
+}
+.athink{
+      font-family: 'Lexend';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+text-align: center;
+text-decoration: none !important;
+color: #815AF0 !important;  
 }
 .powered{
     font-family: 'Lexend';

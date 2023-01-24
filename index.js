@@ -1,5 +1,6 @@
 // Set the date we're counting down to
-var countDownDate = new Date('jan 28, 2023 18:30:00').getTime();
+
+var countDownDate = new Date('jan 24, 2023 12:36:00').getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
@@ -33,7 +34,13 @@ var x = setInterval(function () {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
+
     document.getElementById('demo').innerHTML = 'Webinar has started! 🎊🎉';
+confetti({
+  particleCount: 500,
+  spread: 120,
+  origin: { y: 0.6 },
+});
   }
 }, 1000);
 

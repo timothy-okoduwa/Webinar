@@ -191,21 +191,13 @@ color: white;
     background-color: #642AD1;
 }
 .friddFord{
-    background-image: url('../images/new-background.png');
+    background-image: url('../images/main\ 1.png');
 background-repeat:no-repeat;
 background-size: cover;
 
 
 }
-@media screen and (max-width:991px){
-    .friddFord{
-     background-image: url('../images/main\ 1.png');
-background-repeat:no-repeat;
-background-size: cover;
 
-
-}
-}
 .topp{
     font-family: 'Lexend';
 font-style: normal;

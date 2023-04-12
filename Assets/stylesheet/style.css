@@ -145,6 +145,9 @@ justify-content: space-between;
     height: 55px !important;
     width: 350px !important;
     background-color: #02812C !important;
+    outline: none !important;
+    border: none !important;
+    border-radius: 9px;
 }
 .subHandle{
 
@@ -169,18 +172,39 @@ padding: 2%;
     font-family: 'DM Sans', sans-serif;
     font-size: 18px;
 }
-
+.wooo{
+    color: #FFB82E;
+}
 
 
 .prious{
     background-color: #14142B;
 }
 .fridd{
-    background-image: url('../images/finally2.png');
+    background-image: url('../images/main\ 1.png');
 background-repeat:no-repeat;
 background-size: cover;
 color: white;
 
+}
+.okokok{
+    background-color: #642AD1;
+}
+.friddFord{
+    background-image: url('../images/new-background.png');
+background-repeat:no-repeat;
+background-size: cover;
+
+
+}
+@media screen and (max-width:991px){
+    .friddFord{
+     background-image: url('../images/main\ 1.png');
+background-repeat:no-repeat;
+background-size: cover;
+
+
+}
 }
 .topp{
     font-family: 'Lexend';
@@ -386,12 +410,12 @@ align-items: center;
 flex-direction: column;
 padding-top: 10%;
 padding-bottom: 10%;
-    background: #2b2b41a8;
+    background: #2b2b4157;
     backdrop-filter: blur(52.1946px);    
     border-radius: 78.2919px;
 }
 .fridd2{
-    background-image: url('../images/finally2.png');
+    background-image: url('../images/main\ 1.png');
 background-repeat:no-repeat;
 background-size: cover;
 color: white;
@@ -485,4 +509,19 @@ background-color: #ffffff !important;
 
 li {
     list-style-type: none !important;
+}
+
+
+
+.dot-list {
+  list-style: none;
+  padding-left: 1.5rem;
+}
+
+.dot-list li:before {
+  content: "\2022"; /* add bullet point character */
+  color: #000000; /* change bullet point color */
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em; /* move bullet point to the left */
 }

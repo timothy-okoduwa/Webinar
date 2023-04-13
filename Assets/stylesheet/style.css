@@ -457,17 +457,17 @@ color: #FFFFFF;
  .backhome{
 text-align: center;
 padding: 18px 30px;
-width: 204px;
+width: 124% !important;
 height: 61px;
 background: #815AF0;
 border-radius: 7px;
-border: none;
-outline: none;
+border: none !important;
+outline: none !important;
 font-family: 'Lexend';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
-color: #FFFFFF;
+color: #FFFFFF !important;
  }
  .check{
     font-family: 'Lexend';
@@ -516,4 +516,8 @@ li {
   display: inline-block;
   width: 1em;
   margin-left: -1em; /* move bullet point to the left */
+}
+.ewowo{
+  
+    width: 96% !important;
 }
